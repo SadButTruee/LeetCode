@@ -8,6 +8,5 @@ class Solution {
             globalMax = Math.max(currentMax, globalMax);
         }
         return globalMax;
-
     }
 }
